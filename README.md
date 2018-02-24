@@ -1,2 +1,2 @@
 # FSIM
-Code for the paper, "Functional Single Index Mode."
+Codes which are used for the paper, "Functional Single Index Model."
