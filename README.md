@@ -19,5 +19,3 @@ simu3c.f90 -- estimation for Simulation 3
 simu1c.txt -- estimation results of Simulation 1
 simu2c.txt -- estimation results of Simulation 1
 simu3c.txt -- estimation results of Simulation 1
-
-
